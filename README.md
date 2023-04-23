@@ -38,6 +38,7 @@
                             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS 22">
                             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
                             <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                            <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
                         </div>
                     </li>
                     <li><strong>Other languages:</strong>
@@ -93,9 +94,9 @@
                 NOTE: Top Languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on my public GitHub account.
                 <a href="https://Breinich.github.io/Breinich/">
                 <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-                  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-                  <img alt="github-snake" src="github-snake.svg" />
+                  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Breinich/Breinich/blob/output/github-contribution-grid-snake-dark.svg" />
+                  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Breinich/Breinich/blob/output/github-contribution-grid-snake.svg" />
+                  <img alt="github-snake" src="https://github.com/Breinich/Breinich/blob/output/github-contribution-grid-snake.svg" />
                 </picture>
             </div>
         </details>
