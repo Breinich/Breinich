@@ -86,9 +86,9 @@
                     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark">
-                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=8">
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark">
+                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6">
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
                 </picture>
                 <br>
                 <picture>
