@@ -43,7 +43,7 @@
                         </div>
                         <br>
                     </li>
-                    <li><strong>Other languages I worked with:</strong><br>
+                    <li><strong>Other languages I have worked with:</strong><br>
                         <br>
                         <div align="center">
                             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
