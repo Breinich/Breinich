@@ -81,14 +81,14 @@
             <summary><h3>Stats</h3></summary>
             <div align="center">
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-liard.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
-                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-liard.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-                    <img height="180em" src="https://github-readme-stats-nine-liard.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
+                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-liard.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark">
-                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-liard.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6">
-                    <img height="180em" src="https://github-readme-stats-nine-liard.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark">
+                    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6">
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breinich&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
                 </picture>
                 <br>
                 <picture>
