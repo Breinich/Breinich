@@ -14,12 +14,14 @@
         <details>
             <summary><h3>About me</h3></summary>
             <div align="left">
-                💡 &nbsp;I like to solve problems, learn new technologies and enjoy life outside. <br>
-                🎓 &nbsp;I'm currently studying Computer Engineering at the Budapest University of Technology and Economics. <br>
-                🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design and WEB development. <br>
-                🏈 &nbsp;In my free time, I like doing outdoor sports of all kind and <br>
-                🖌️ &nbsp;I also like painting, drawing and glass engraving. <br>
-                ✉️ &nbsp;You can shoot me an email at <a href="mailto:bajnokvencel@edu.bme.hu">bajnokvencel@edu.bme.hu</a>! I'll try to respond as soon as I can. <br>    
+                <ul>
+                    <li>💡 &nbsp;I like to solve problems, learn new technologies and enjoy life outside.</li>
+                    <li>🎓 &nbsp;I'm currently studying Computer Engineering at the Budapest University of Technology and Economics.</li>
+                    <li>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design and WEB development.</li>
+                    <li>🏈 &nbsp;In my free time, I like doing outdoor sports of all kind and</li>
+                    <li>🖌️ &nbsp;I also like painting, drawing and glass engraving.</li>
+                    <li>✉️ &nbsp;You can shoot me an email at <a href="mailto:bajnokvencel@edu.bme.hu">bajnokvencel@edu.bme.hu</a>! I'll try to respond as soon as I can.</li>
+                </ul>
             </div>
         </details>
         <details>
