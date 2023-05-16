@@ -82,6 +82,10 @@
         <details>
             <summary><h3>Stats</h3></summary>
             <div align="center">
+                <a href="https://profile-summary-for-github.com/user/Breinich">
+                    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="More info">
+                </a>
+                <br>
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
                     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
