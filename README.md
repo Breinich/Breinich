@@ -9,7 +9,7 @@
             <h2>Open profile</h2>
         </summary>
         <div align="center">
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=23&pause=300&color=BD3DF7&center=true&vCenter=true&width=470&lines=Hello+my+Friend%2C+I'm+Vencel+Bajnok;and+I'm+currently+studying+at+the+BME;I'm+on+my+way+to+become+a+punctual;and+trustworthy+computer+engineer" alt="Typing SVG" /></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=23&pause=300&color=BD3DF7&center=true&vCenter=true&width=470&lines=Hello+my+Friend%2C+I'm+Vencel+Bajnok;and+I'm+currently+studying+at+the+BME;I'm+on+my+way+to+become+a+punctual;and+reliable+computer+engineer" alt="Typing SVG" /></a>
         </div>
         <details>
             <summary><h3>About me</h3></summary>
