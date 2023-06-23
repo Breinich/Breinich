@@ -86,6 +86,7 @@
                     <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="More info">
                 </a>
                 <br>
+                <!--
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
                     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Breinich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
@@ -105,6 +106,7 @@
                 <br>
                 NOTE: Top Languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on my public GitHub account.
                 <br>
+                -->
                 <a href="https://github.com/Breinich?tab=repositories">
                     <picture>
                       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breinich/Breinich/output/github-contribution-grid-snake-dark.svg" />
