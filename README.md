@@ -17,7 +17,7 @@
                 <ul>
                     <li>💡 &nbsp;I like to solve problems, learn new technologies and enjoy life outside.</li>
                     <li>🎓 &nbsp;I'm currently studying Computer Engineering at the Budapest University of Technology and Economics.</li>
-                    <li>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design and WEB development.</li>
+                    <li>🌱 &nbsp;I'm on track for learning more about Cyber Security, Systems Design and WEB development.</li>
                     <li>🏈 &nbsp;In my free time, I like doing outdoor sports of all kind and</li>
                     <li>🖌️ &nbsp;I also like painting, drawing and glass engraving.</li>
                     <li>✉️ &nbsp;You can shoot me an email at <a href="mailto:bajnokvencel@edu.bme.hu">bajnokvencel@edu.bme.hu</a>! I'll try to respond as soon as I can.</li>
