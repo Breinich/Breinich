@@ -16,7 +16,7 @@
             <div align="left">
                 <ul>
                     <li>💡 &nbsp;I like to solve problems, learn new technologies and enjoy life outside.</li>
-                    <li>🎓 &nbsp;I'm currently studying Computer Engineering at the Budapest University of Technology and Economics.</li>
+                    <li>🎓 &nbsp;I am currently studying computer science engineering at the MSc level at the Budapest University of Technology and Economics.</li>
                     <li>🌱 &nbsp;I'm on track for learning more about Cyber Security, Systems Design and WEB development.</li>
                     <li>🏈 &nbsp;In my free time, I like doing outdoor sports of all kind and</li>
                     <li>🖌️ &nbsp;I also like painting, drawing and glass engraving.</li>
